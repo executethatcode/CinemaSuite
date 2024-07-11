@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CinemaSuite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CinemaSuite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\aboutus\\Ayush.jpg",
+      "PackagePath": "staticwebassets\\Images\\aboutus\\Ayush.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\aboutus\\Prashant.jpg",
+      "PackagePath": "staticwebassets\\Images\\aboutus\\Prashant.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\aboutus\\Saurabh.jpg",
+      "PackagePath": "staticwebassets\\Images\\aboutus\\Saurabh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\aboutus\\Shreyash.jpg",
+      "PackagePath": "staticwebassets\\Images\\aboutus\\Shreyash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\aboutus\\Tushar.jpg",
+      "PackagePath": "staticwebassets\\Images\\aboutus\\Tushar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\aboutus\\mission.jpg",
+      "PackagePath": "staticwebassets\\Images\\aboutus\\mission.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\aboutus\\values.jpg",
+      "PackagePath": "staticwebassets\\Images\\aboutus\\values.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\aboutus\\vision.jpg",
+      "PackagePath": "staticwebassets\\Images\\aboutus\\vision.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\04f7e149-ddf8-4950-ab27-d01a2d3bf4f8.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\04f7e149-ddf8-4950-ab27-d01a2d3bf4f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\1832b9e0-f6a6-4d69-a448-6ae80f6724bb.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\1832b9e0-f6a6-4d69-a448-6ae80f6724bb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\37925dec-dc00-4d1a-9bc9-92a1bfef8e9f.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\37925dec-dc00-4d1a-9bc9-92a1bfef8e9f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\4e52f989-ea39-442a-ab07-7c591f0584de.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\4e52f989-ea39-442a-ab07-7c591f0584de.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\6e9d8e23-c4dd-414e-b232-a6ff2010e298.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\6e9d8e23-c4dd-414e-b232-a6ff2010e298.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\761523d8-884f-4b7a-9c99-db864d705da8.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\761523d8-884f-4b7a-9c99-db864d705da8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\7809beca-374a-4fd2-8a97-0aaa2e37a59e.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\7809beca-374a-4fd2-8a97-0aaa2e37a59e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\7febf772-c83f-4cc9-baf5-4f176a615483.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\7febf772-c83f-4cc9-baf5-4f176a615483.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\825cfa83-5fb5-493a-a838-adea961fb062.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\825cfa83-5fb5-493a-a838-adea961fb062.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\88d84d29-2d8e-459d-86e3-0a0c2f5ffe09.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\88d84d29-2d8e-459d-86e3-0a0c2f5ffe09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\9a1dea58-cdf8-4baf-97dd-74b16782f829.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\9a1dea58-cdf8-4baf-97dd-74b16782f829.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\9bca7503-c7fc-485e-ab85-c50b2e749de6.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\9bca7503-c7fc-485e-ab85-c50b2e749de6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\ae7f4af0-af88-4fe6-98c5-f564cc83b343.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\ae7f4af0-af88-4fe6-98c5-f564cc83b343.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\b279c289-da95-43e4-b304-d56fcefc7dfb.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\b279c289-da95-43e4-b304-d56fcefc7dfb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\bebf91eb-7b18-4445-b305-694aa3eca411.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\bebf91eb-7b18-4445-b305-694aa3eca411.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\cac937d0-b114-42c1-81b7-e578507ce444.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\cac937d0-b114-42c1-81b7-e578507ce444.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\cc54afe2-05a8-4cac-8b37-25e126d3ba12.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\cc54afe2-05a8-4cac-8b37-25e126d3ba12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\dda24e68-f8f3-4afb-a984-c22ec5ed5ec7.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\dda24e68-f8f3-4afb-a984-c22ec5ed5ec7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\Images\\movie\\fd41582e-0332-43be-ac41-d5ec03694574.jpg",
+      "PackagePath": "staticwebassets\\Images\\movie\\fd41582e-0332-43be-ac41-d5ec03694574.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\js\\movie.js",
+      "PackagePath": "staticwebassets\\js\\movie.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\CCAT\\NET\\Mini Project\\CinemaSuite\\CinemaSuite\\CinemaSuite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CinemaSuite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CinemaSuite.props",
+      "PackagePath": "build\\CinemaSuite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CinemaSuite.props",
+      "PackagePath": "buildMultiTargeting\\CinemaSuite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CinemaSuite.props",
+      "PackagePath": "buildTransitive\\CinemaSuite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,43 @@
+﻿@model List<Category>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Category List Page</title>
+</head>
+<body>
+    <partial name="_Notification" /> 
+    <div class="container">
+        <h2 class="mt-3 mb-3">Category List</h2>
+        <a class="btn btn-primary mb-3" asp-controller="Category" asp-action="Create">
+            <i class="bi bi-file-plus"></i> Create Category
+        </a>
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>DisplayOrder</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model)
+                {
+                    <tr>
+                        <td>@obj.Name</td>
+                        <td>@obj.DisplayOrder</td>
+                        <td>
+                            <a class="btn btn-primary" asp-controller="Category" asp-action="Edit" asp-route-id="@obj.Id">
+                                <i class="bi bi-pencil-square"></i> Edit
+                            </a>
+                            <a class="btn btn-danger" asp-controller="Category" asp-action="Delete" asp-route-id="@obj.Id">
+                                <i class="bi bi-trash"></i> Delete
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

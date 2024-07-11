@@ -1,0 +1,38 @@
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.csproj.AssemblyReference.cache
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.AssemblyInfoInputs.cache
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.AssemblyInfo.cs
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.csproj.CoreCompileInputs.cache
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.DataAccess.deps.json
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.DataAccess.runtimeconfig.json
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.DataAccess.dll
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.DataAccess.pdb
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.Models.dll
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.Utility.dll
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.Models.pdb
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.Utility.pdb
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSu.91E0E6C5.Up2Date
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.dll
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\refint\CinemaSuite.DataAccess.dll
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.pdb
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.genruntimeconfig.cache
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\ref\CinemaSuite.DataAccess.dll
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.DataAccess.deps.json
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.DataAccess.runtimeconfig.json
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.DataAccess.dll
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.DataAccess.pdb
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.Models.dll
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.Utility.dll
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.Models.pdb
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\bin\Debug\net8.0\CinemaSuite.Utility.pdb
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSu.91E0E6C5.Up2Date
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.dll
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\refint\CinemaSuite.DataAccess.dll
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.pdb
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\CinemaSuite.DataAccess.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.DataAccess\obj\Debug\net8.0\ref\CinemaSuite.DataAccess.dll

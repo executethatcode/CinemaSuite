@@ -1,0 +1,28 @@
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\bin\Debug\net8.0\CinemaSuite.Models.deps.json
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\bin\Debug\net8.0\CinemaSuite.Models.dll
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\bin\Debug\net8.0\CinemaSuite.Models.pdb
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.AssemblyInfoInputs.cache
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.AssemblyInfo.cs
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.csproj.CoreCompileInputs.cache
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.dll
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\refint\CinemaSuite.Models.dll
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.pdb
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\ref\CinemaSuite.Models.dll
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\bin\Debug\net8.0\CinemaSuite.Models.runtimeconfig.json
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.csproj.AssemblyReference.cache
+C:\.NET\A .Net core mvc\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\bin\Debug\net8.0\CinemaSuite.Models.deps.json
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\bin\Debug\net8.0\CinemaSuite.Models.runtimeconfig.json
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\bin\Debug\net8.0\CinemaSuite.Models.dll
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\bin\Debug\net8.0\CinemaSuite.Models.pdb
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.dll
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\refint\CinemaSuite.Models.dll
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.pdb
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\CinemaSuite.Models.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\CCAT\NET\Mini Project\CinemaSuite\CinemaSuite\CinemaSuite.Models\obj\Debug\net8.0\ref\CinemaSuite.Models.dll

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Movie>
+
+<style>
+    .card {
+        border: 1px solid #ddd;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .card .card-body {
+            padding: 15px;
+        }
+
+    .card-title {
+        margin-bottom: 0.5rem; /* Adjust margin as needed */
+    }
+
+    .text-center {
+        text-align: center; /* Center align text */
+    }
+</style>
+
+<div class="row pb-3">
+    @foreach (var movie in Model)
+    {
+        <div class="col-lg-2 col-md-3 col-sm-4 mb-4">
+            <div class="card rounded h-100">
+                <img src="@movie.ImageUrl" class="card-img-top rounded" alt="@movie.Title" />
+                <div class="card-body d-flex flex-column">
+                    <div class="mb-auto">
+                        <p class="card-title h6 text-dark opacity-75 text-uppercase text-center">@movie.Title</p>
+                        <p class="card-title text-warning text-center">by <b>@movie.Director</b></p>
+                    </div>
+                    <div class="mt-3">
+                        <p class="text-dark text-opacity-75 text-center">
+                            Dvd-Price:
+                            <span>
+                                @movie.DvdPrice.ToString("c")
+                            </span>
+                        </p>
+                    </div>
+                    <div>
+                        <p class="text-dark text-opacity-75 text-center mb-0">
+                            Blu-Ray:
+                            <span>
+                                @movie.BlurayPrice.ToString("c")
+                            </span>
+                        </p>
+                    </div>
+                    <div class="mt-auto">
+                        <a asp-action="Details"
+                           asp-route-movieId="@movie.Id"
+                           class="btn btn-primary bg-gradient border-0 form-control mt-4">
+                            Details
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
